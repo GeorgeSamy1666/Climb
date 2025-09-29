@@ -165,7 +165,7 @@ body {
 
 /* start landing */
 .landing {
-    background-image: url(/material/963397.jpg);
+    background-image: url(material/963397.jpg);
     background-size: cover;
     height: 100vh;
     margin: 0;
@@ -561,4 +561,5 @@ body {
     padding-left: 5px;
     padding-right: 5px;
 }
+
 /*end footer*/
